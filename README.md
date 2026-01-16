@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sumit111-u/ALGORITHMS/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3454-separate-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
