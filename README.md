@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sumit111-u/ALGORITHMS/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 <!---LeetCode Topics End-->
