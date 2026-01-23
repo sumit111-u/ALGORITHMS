@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
+| [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -160,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
