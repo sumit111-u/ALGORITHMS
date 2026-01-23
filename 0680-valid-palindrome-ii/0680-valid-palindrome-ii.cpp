@@ -14,7 +14,7 @@ public:
 
         while (l < r) {
             if (s[l] != s[r]) {
-                // try skipping either left or right character
+          
                 return isPalindrome(s, l + 1, r) || isPalindrome(s, l, r - 1);
             }
             l++;
