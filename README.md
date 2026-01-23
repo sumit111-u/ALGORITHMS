@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 ## Hash Table
