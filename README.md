@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sumit111-u/ALGORITHMS/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sumit111-u/ALGORITHMS/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
