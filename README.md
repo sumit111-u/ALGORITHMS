@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sumit111-u/ALGORITHMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0015-3sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sumit111-u/ALGORITHMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
