@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sumit111-u/ALGORITHMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
