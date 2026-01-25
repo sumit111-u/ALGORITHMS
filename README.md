@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
