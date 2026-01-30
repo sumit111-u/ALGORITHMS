@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/2976-minimum-cost-to-convert-string-i) |
