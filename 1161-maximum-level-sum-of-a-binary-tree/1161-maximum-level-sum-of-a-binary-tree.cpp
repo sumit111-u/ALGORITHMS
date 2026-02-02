@@ -1,42 +1,51 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        int maxSum = INT_MIN;
-        int resultLevel = 0;
-        int currLevel = 1;
-        
-        queue<TreeNode*> que;
-        que.push(root);
-        
-        
-        while(!que.empty()) {
+     
+    int ansLevel = 1;
+    int currLevel = 1;   
+    if(root==NULL) return ansLevel;
+    
+    int maxi = root->val;
+    
+    queue<TreeNode*>q;
+    q.push(root);
 
-            int n = que.size();
-            
-            int sum = 0;
-            
-            while(n--) {
-                
-                TreeNode* node = que.front();
-                que.pop();
-                
-                sum += node->val;
-                
-                if(node->left)
-                    que.push(node->left);
-                
-                if(node->right)
-                    que.push(node->right);
-            }
-            
-            if(sum > maxSum) {
-                maxSum = sum;
-                resultLevel = currLevel;
-            }
-            currLevel++;
-        }
+    while(!q.empty()){
+        int size=q.size();
         
-        return resultLevel;
+        int sum = 0;
+        
+      for( int i=0; i<size;i++){
+        auto top=q.front();
+        q.pop();
+        sum+=top->val;
+     
+        if(top->left){
+            q.push(top->left);
+        }
+        if(top->right){
+            q.push(top->right);
+        }
+      }
+      if(sum > maxi){
+        maxi = sum;
+        ansLevel = currLevel;
+      }
+        currLevel++;
+    }
+    return ansLevel;
         
     }
 };
