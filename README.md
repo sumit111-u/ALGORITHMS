@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sumit111-u/ALGORITHMS/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sumit111-u/ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sumit111-u/ALGORITHMS/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sumit111-u/ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sumit111-u/ALGORITHMS/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sumit111-u/ALGORITHMS/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sumit111-u/ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sumit111-u/ALGORITHMS/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
