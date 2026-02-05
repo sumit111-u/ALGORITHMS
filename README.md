@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
+| [3379-transformed-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
