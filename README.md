@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sumit111-u/ALGORITHMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sumit111-u/ALGORITHMS/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/sumit111-u/ALGORITHMS/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sumit111-u/ALGORITHMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sumit111-u/ALGORITHMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sumit111-u/ALGORITHMS/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/sumit111-u/ALGORITHMS/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sumit111-u/ALGORITHMS/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/sumit111-u/ALGORITHMS/tree/master/0841-keys-and-rooms) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sumit111-u/ALGORITHMS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
