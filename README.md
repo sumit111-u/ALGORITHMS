@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit111-u/ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sumit111-u/ALGORITHMS/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sumit111-u/ALGORITHMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumit111-u/ALGORITHMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sumit111-u/ALGORITHMS/tree/master/0257-binary-tree-paths) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sumit111-u/ALGORITHMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sumit111-u/ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -356,5 +360,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sumit111-u/ALGORITHMS/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
