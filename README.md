@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/sumit111-u/ALGORITHMS/tree/master/1020-number-of-enclaves) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sumit111-u/ALGORITHMS/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sumit111-u/ALGORITHMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit111-u/ALGORITHMS/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
+| [1020-number-of-enclaves](https://github.com/sumit111-u/ALGORITHMS/tree/master/1020-number-of-enclaves) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
 ## Tree
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sumit111-u/ALGORITHMS/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/sumit111-u/ALGORITHMS/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/sumit111-u/ALGORITHMS/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sumit111-u/ALGORITHMS/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/sumit111-u/ALGORITHMS/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/sumit111-u/ALGORITHMS/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -374,4 +378,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sumit111-u/ALGORITHMS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sumit111-u/ALGORITHMS/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/sumit111-u/ALGORITHMS/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
