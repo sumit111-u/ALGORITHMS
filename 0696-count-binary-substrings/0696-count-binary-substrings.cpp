@@ -14,6 +14,6 @@ public:
                 curr = 1;
             }
         }
-        return ans + min(prev, curr);
+       return ans+min(prev,curr);
     }
 };
