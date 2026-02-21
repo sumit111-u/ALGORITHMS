@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0189-rotate-array) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 ## Hash Table
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/sumit111-u/ALGORITHMS/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
 |  |
