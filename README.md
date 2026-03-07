@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sumit111-u/ALGORITHMS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumit111-u/ALGORITHMS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
