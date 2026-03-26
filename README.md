@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sumit111-u/ALGORITHMS/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
