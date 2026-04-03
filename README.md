@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sumit111-u/ALGORITHMS/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 ## Hash Table
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sumit111-u/ALGORITHMS/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/sumit111-u/ALGORITHMS/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sumit111-u/ALGORITHMS/tree/master/0868-binary-gap) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sumit111-u/ALGORITHMS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sumit111-u/ALGORITHMS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
