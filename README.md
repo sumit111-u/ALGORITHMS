@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sumit111-u/ALGORITHMS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/sumit111-u/ALGORITHMS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sumit111-u/ALGORITHMS/tree/master/0344-reverse-string) |
