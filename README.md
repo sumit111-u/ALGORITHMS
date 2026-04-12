@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sumit111-u/ALGORITHMS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sumit111-u/ALGORITHMS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumit111-u/ALGORITHMS/tree/master/0345-reverse-vowels-of-a-string) |
