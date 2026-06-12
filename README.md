@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sumit111-u/ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sumit111-u/ALGORITHMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sumit111-u/ALGORITHMS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sumit111-u/ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sumit111-u/ALGORITHMS/tree/master/0231-power-of-two) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumit111-u/ALGORITHMS/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sumit111-u/ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/sumit111-u/ALGORITHMS/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sumit111-u/ALGORITHMS/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/sumit111-u/ALGORITHMS/tree/master/1934-confirmation-rate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sumit111-u/ALGORITHMS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
