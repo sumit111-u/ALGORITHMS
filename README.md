@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumit111-u/ALGORITHMS/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sumit111-u/ALGORITHMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/sumit111-u/ALGORITHMS/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sumit111-u/ALGORITHMS/tree/master/0868-binary-gap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sumit111-u/ALGORITHMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sumit111-u/ALGORITHMS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
