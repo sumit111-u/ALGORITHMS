@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sumit111-u/ALGORITHMS/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sumit111-u/ALGORITHMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/sumit111-u/ALGORITHMS/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sumit111-u/ALGORITHMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/sumit111-u/ALGORITHMS/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3453-separate-squares-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3453-separate-squares-i) |
