@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -528,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sumit111-u/ALGORITHMS/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
