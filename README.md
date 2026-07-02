@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit111-u/ALGORITHMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sumit111-u/ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sumit111-u/ALGORITHMS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumit111-u/ALGORITHMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sumit111-u/ALGORITHMS/tree/master/0696-count-binary-substrings) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
@@ -545,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
