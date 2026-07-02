@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/3379-transformed-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sumit111-u/ALGORITHMS/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sumit111-u/ALGORITHMS/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sumit111-u/ALGORITHMS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/sumit111-u/ALGORITHMS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0867-transpose-matrix) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3379-transformed-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
