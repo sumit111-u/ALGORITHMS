@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0566-reshape-the-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sumit111-u/ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sumit111-u/ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sumit111-u/ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/sumit111-u/ALGORITHMS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/sumit111-u/ALGORITHMS/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sumit111-u/ALGORITHMS/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/sumit111-u/ALGORITHMS/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -558,5 +564,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
