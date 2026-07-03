@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumit111-u/ALGORITHMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sumit111-u/ALGORITHMS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sumit111-u/ALGORITHMS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sumit111-u/ALGORITHMS/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/sumit111-u/ALGORITHMS/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sumit111-u/ALGORITHMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sumit111-u/ALGORITHMS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sumit111-u/ALGORITHMS/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
 |  |
