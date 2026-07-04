@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/sumit111-u/ALGORITHMS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sumit111-u/ALGORITHMS/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/sumit111-u/ALGORITHMS/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0509-fibonacci-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sumit111-u/ALGORITHMS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sumit111-u/ALGORITHMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sumit111-u/ALGORITHMS/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sumit111-u/ALGORITHMS/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sumit111-u/ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sumit111-u/ALGORITHMS/tree/master/0530-minimum-absolute-difference-in-bst) |
