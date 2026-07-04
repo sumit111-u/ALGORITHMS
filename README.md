@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sumit111-u/ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/sumit111-u/ALGORITHMS/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/sumit111-u/ALGORITHMS/tree/master/1046-last-stone-weight) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sumit111-u/ALGORITHMS/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0509-fibonacci-number) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sumit111-u/ALGORITHMS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sumit111-u/ALGORITHMS/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sumit111-u/ALGORITHMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sumit111-u/ALGORITHMS/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sumit111-u/ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sumit111-u/ALGORITHMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sumit111-u/ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sumit111-u/ALGORITHMS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
