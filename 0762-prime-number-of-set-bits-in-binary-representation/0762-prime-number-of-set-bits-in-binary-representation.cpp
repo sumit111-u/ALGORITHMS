@@ -1,11 +1,27 @@
 class Solution {
 public:
-  int countPrimeSetBits(int L, int R) {
-        int cnt = 0, hash[20] = {0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1};
-        for (int i = L; i <= R; i++) {
-            bitset<20> b(i);
-            if(hash[b.count()]) cnt++;
+    bool isPrime(int n) {
+        if (n < 2)
+            return false;
+
+        for (int i = 2; i * i <= n; i++) {
+            if (n % i == 0)
+                return false;
         }
-        return cnt;
+
+        return true;
+    }
+
+    int countPrimeSetBits(int left, int right) {
+        int count = 0;
+
+        for (int i = left; i <= right; i++) {
+            int ones = __builtin_popcount(i);
+
+            if (isPrime(ones))
+                count++;
+        }
+
+        return count;
     }
 };
