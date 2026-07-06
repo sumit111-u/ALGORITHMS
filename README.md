@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/sumit111-u/ALGORITHMS/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0784-letter-case-permutation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/sumit111-u/ALGORITHMS/tree/master/0868-binary-gap) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sumit111-u/ALGORITHMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sumit111-u/ALGORITHMS/tree/master/0696-count-binary-substrings) |
+| [0784-letter-case-permutation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0784-letter-case-permutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit111-u/ALGORITHMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sumit111-u/ALGORITHMS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumit111-u/ALGORITHMS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sumit111-u/ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sumit111-u/ALGORITHMS/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/sumit111-u/ALGORITHMS/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/sumit111-u/ALGORITHMS/tree/master/0784-letter-case-permutation) |
 ## Graph Theory
 |  |
 | ------- |
