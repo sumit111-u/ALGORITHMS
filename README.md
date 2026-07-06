@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/sumit111-u/ALGORITHMS/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sumit111-u/ALGORITHMS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sumit111-u/ALGORITHMS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sumit111-u/ALGORITHMS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sumit111-u/ALGORITHMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sumit111-u/ALGORITHMS/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1288-remove-covered-intervals](https://github.com/sumit111-u/ALGORITHMS/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sumit111-u/ALGORITHMS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sumit111-u/ALGORITHMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
