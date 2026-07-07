@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/sumit111-u/ALGORITHMS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sumit111-u/ALGORITHMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2939-maximum-xor-product](https://github.com/sumit111-u/ALGORITHMS/tree/master/2939-maximum-xor-product) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
