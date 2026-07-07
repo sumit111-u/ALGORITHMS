@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumit111-u/ALGORITHMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumit111-u/ALGORITHMS/tree/master/0463-island-perimeter) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/sumit111-u/ALGORITHMS/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/sumit111-u/ALGORITHMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit111-u/ALGORITHMS/tree/master/0733-flood-fill) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit111-u/ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit111-u/ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sumit111-u/ALGORITHMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sumit111-u/ALGORITHMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sumit111-u/ALGORITHMS/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sumit111-u/ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
