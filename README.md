@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sumit111-u/ALGORITHMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2939-maximum-xor-product](https://github.com/sumit111-u/ALGORITHMS/tree/master/2939-maximum-xor-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sumit111-u/ALGORITHMS/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumit111-u/ALGORITHMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
