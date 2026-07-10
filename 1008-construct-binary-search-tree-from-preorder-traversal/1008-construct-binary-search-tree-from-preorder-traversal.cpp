@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
- TreeNode* wahh(vector<int>& preorder, int &i,int mini, int maxi) {
+ TreeNode* wahh(vector<int>& preorder, int&i,int mini, int maxi) {
     if( i>=preorder.size()) return NULL;
     if( preorder[i]<mini || preorder[i]> maxi) return NULL;
 TreeNode* root= new TreeNode(preorder[i++]);
