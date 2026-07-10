@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumit111-u/ALGORITHMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit111-u/ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/sumit111-u/ALGORITHMS/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/sumit111-u/ALGORITHMS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit111-u/ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumit111-u/ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sumit111-u/ALGORITHMS/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit111-u/ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit111-u/ALGORITHMS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sumit111-u/ALGORITHMS/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sumit111-u/ALGORITHMS/tree/master/0322-coin-change) |
